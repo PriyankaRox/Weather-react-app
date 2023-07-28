@@ -1,0 +1,63 @@
+.weather-card {
+  background-color: #f0f0f0;
+  padding: 5rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-top: 1rem;
+}
+
+.weather-card h2 {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.weather-card p {
+  margin-bottom: 0.25rem;
+}
+
+.weather-card.temperature {
+  color: #4caf50;
+}
+
+.weather-card.humidity {
+  color: #2196f3;
+}
+
+.weather-card.conditions {
+  color: #ff9800;
+}
+
+.weather-card.rain-background {
+  background-image: url('https://i.gifer.com/PbVE.gif');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+.weather-card.sun-background {
+  background-image: url('https://gifer.com/en/mzL');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+.weather-card.cloudy-background {
+  background-image: url('https://i.gifer.com/g1vA.gif');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+.weather-card.clear-background {
+  background-image: url('https://media.giphy.com/media/3oz8xsTTDHL2D8Hluw/giphy-downsized-large.gif');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+.weather-card.drizzle-background {
+  background-image: url('https://i.gifer.com/7sd1.gif');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}

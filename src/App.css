@@ -1,0 +1,27 @@
+
+
+body.rain-background {
+    background-image: url('https://i.gifer.com/PbVE.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  body.sun-background {
+    background-image: url('https://gifer.com/en/mzL');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  body.cloudy-background {
+    background-image: url('https://i.gifer.com/g1vA.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  body.drizzle-background {
+    background-image: url('https://i.gifer.com/7sd1.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+
+  
